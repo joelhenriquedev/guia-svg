@@ -36,3 +36,8 @@
 |--|--|--|--|
 | rotate | Este atributo define a orientação de cada glifo. | Os tipos de valores aceitos são uma **lista de números**. Seu valor padrão é none | sim |
 
+### Text Length
+
+|Nome|Descrição|Tipos|Pode animar?|
+|--|--|--|--|
+| textLength| Este atributo permite especificar a largura na qual o texto será desenhado. | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é none | sim |
