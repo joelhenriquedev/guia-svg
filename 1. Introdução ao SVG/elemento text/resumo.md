@@ -10,3 +10,10 @@
 |--|--|--|--|
 | x | Este atributo determina a coordenada x do ponto inicial do texto | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
 
+
+### Y
+
+|Nome|Descrição|Tipos|Pode animar?|
+|--|--|--|--|
+| y | Este atributo determina a coordenada x do ponto inicial do texto | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
+
