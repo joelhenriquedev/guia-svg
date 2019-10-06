@@ -23,3 +23,10 @@
 |--|--|--|--|
 | dx | Este atributo permite deslocar a posição do texto horizontalmente. | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
 
+
+### Dy
+
+|Nome|Descrição|Tipos|Pode animar?|
+|--|--|--|--|
+| dy | Este atributo permite deslocar a posição do texto verticalmente. | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
+
