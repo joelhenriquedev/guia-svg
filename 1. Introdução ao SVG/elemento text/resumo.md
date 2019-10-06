@@ -17,3 +17,9 @@
 |--|--|--|--|
 | y | Este atributo determina a coordenada x do ponto inicial do texto | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
 
+### Dx
+
+|Nome|Descrição|Tipos|Pode animar?|
+|--|--|--|--|
+| dx | Este atributo permite deslocar a posição do texto horizontalmente. | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
+
