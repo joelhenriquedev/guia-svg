@@ -30,3 +30,9 @@
 |--|--|--|--|
 | dy | Este atributo permite deslocar a posição do texto verticalmente. | Os tipos de valores aceitos são **número** ou **porcentagem**. Seu valor padrão é 0 | sim |
 
+### Rotate
+
+|Nome|Descrição|Tipos|Pode animar?|
+|--|--|--|--|
+| rotate | Este atributo define a orientação de cada glifo. | Os tipos de valores aceitos são uma **lista de números**. Seu valor padrão é none | sim |
+
